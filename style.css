@@ -1,0 +1,53 @@
+
+:root {
+    --primary-color: #212121;
+    --text-color: #757575;
+    --secondary-color: #FFFFFF;
+    --secondary-link-color: rgba(255, 255, 255, 0.6);
+    --accent-color: #2196F3;
+}
+.footer .logo {
+    color: var(--secondary-color);
+}
+.logo {
+    color: #000000;
+font-family: Roboto, sans-serif;
+}
+.logo-span,
+.nav-link:hover,
+.nav-link:focus,
+.list-item:hover,
+.list-item:focus {
+    color: var(--accent-color);
+}
+.nav-link {
+color: var(--primary-color);
+}
+.list-item {
+    color: var(--text-color);
+}
+.hero-section {
+    background-color: #2F303A;
+}
+.hero-title {
+    color: #FFFFFF;
+}
+h2 {
+    font-family: Roboto, sans-serif;
+}
+p {
+    font-family: Roboto, sans-serif;
+}
+a {
+    text-decoration: none;
+}
+.subtitle .name {
+    font-family: Roboto, sans-serif;
+}
+footer {
+background-color: var(--primary-color);
+}
+address {
+    color: var(--secondary-color);
+}
+
